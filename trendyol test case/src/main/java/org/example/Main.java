@@ -5,5 +5,6 @@ public class Main {
 
         System.out.println("Push deneme");
         System.out.println("Hello world!");
+        System.out.println("selcuk");
     }
 }

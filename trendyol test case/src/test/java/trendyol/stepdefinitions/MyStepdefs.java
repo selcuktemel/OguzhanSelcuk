@@ -172,10 +172,10 @@ public class MyStepdefs {
         girisYapSayfası.girisYapTabi.click();
     }
 
-    @And("Doğrulanmış eposta ve mail girilir ve giriş yap butonuna basılır.")
-    public void doğrulanmışEpostaVeMailGirilirVeGirişYapButonunaBasılır() {
-        ///// deneme bir iki
+  // @And("Doğrulanmış eposta ve mail girilir ve giriş yap butonuna basılır.")
+  // public void doğrulanmışEpostaVeMailGirilirVeGirişYapButonunaBasılır() {
+  //     ///// deneme bir iki
 
 
-    }
+  // }
 }
